@@ -9,6 +9,6 @@ public class AccountController : BaseApiController
     [AllowAnonymous, HttpGet("GetCellType")]
     public ActionResult GetCell()
     {
-        return Ok(new { ECellType = Enum.GetValues(typeof(ECellType)).Cast<ECellType>().RandomElement().ToString() });
+        return Ok(new { CellType = Enum.GetValues(typeof(ECellType)).Cast<ECellType>().RandomElement()});
     }
 }

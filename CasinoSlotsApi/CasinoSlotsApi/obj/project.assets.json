@@ -465,11 +465,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Games\\CasinoSlotsApi\\CasinoSlotsApi\\CasinoSlotsApi.csproj",
+      "projectUniqueName": "C:\\Games\\CasinoSlotsApiGit\\CasinoSlotsApi\\CasinoSlotsApi\\CasinoSlotsApi.csproj",
       "projectName": "CasinoSlotsApi",
-      "projectPath": "C:\\Games\\CasinoSlotsApi\\CasinoSlotsApi\\CasinoSlotsApi.csproj",
+      "projectPath": "C:\\Games\\CasinoSlotsApiGit\\CasinoSlotsApi\\CasinoSlotsApi\\CasinoSlotsApi.csproj",
       "packagesPath": "C:\\Users\\piche\\.nuget\\packages\\",
-      "outputPath": "C:\\Games\\CasinoSlotsApi\\CasinoSlotsApi\\obj\\",
+      "outputPath": "C:\\Games\\CasinoSlotsApiGit\\CasinoSlotsApi\\CasinoSlotsApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\piche\\AppData\\Roaming\\NuGet\\NuGet.Config"
